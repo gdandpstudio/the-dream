@@ -14,6 +14,10 @@
     {"name":"Скрипты","order":3,"path":"folders/Скрипты.yy",},
     {"name":"Шейдеры","order":4,"path":"folders/Шейдеры.yy",},
     {"name":"Шрифты","order":5,"path":"folders/Шрифты.yy",},
+    {"name":"Extensions","order":15,"path":"folders/Extensions.yy",},
+    {"name":"Fonts","order":16,"path":"folders/Fonts.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"rm_menu","order":1,"path":"rooms/rm_menu/rm_menu.yy",},
+  ],
 }
