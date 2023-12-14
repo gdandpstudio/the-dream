@@ -11,6 +11,8 @@
   },
   "defaultScriptType": 2,
   "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Particle Systems","folderPath":"folders/Particle Systems.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Временные шкалы","folderPath":"folders/Временные шкалы.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Звуки","folderPath":"folders/Звуки.yy",},
@@ -26,11 +28,8 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Extensions","folderPath":"folders/Extensions.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Fonts","folderPath":"folders/Fonts.yy",},
   ],
   "IncludedFiles": [
-    {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"EASY ROOM TRANSITIONS.pdf","CopyToMask":-1,"filePath":"datafiles",},
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"EASY ROOM TRANSITIONS.pdf","CopyToMask":-1,"filePath":"datafiles",},
   ],
   "isEcma": false,
@@ -43,6 +42,7 @@
     {"id":{"name":"Block_Lighting_2D","path":"extensions/Block_Lighting_2D/Block_Lighting_2D.yy",},},
     {"id":{"name":"obj_load","path":"objects/obj_load/obj_load.yy",},},
     {"id":{"name":"f_1","path":"fonts/f_1/f_1.yy",},},
+    {"id":{"name":"SimpleINI","path":"extensions/SimpleINI/SimpleINI.yy",},},
     {"id":{"name":"spr_load","path":"sprites/spr_load/spr_load.yy",},},
     {"id":{"name":"rm_load","path":"rooms/rm_load/rm_load.yy",},},
   ],
