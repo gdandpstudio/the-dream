@@ -13,9 +13,10 @@
     {"name":"Расширения","order":11,"path":"folders/Расширения.yy",},
     {"name":"Румы","order":7,"path":"folders/Румы.yy",},
     {"name":"Скрипты","order":2,"path":"folders/Скрипты.yy",},
+    {"name":"Фоны","order":15,"path":"folders/Фоны.yy",},
     {"name":"Шейдеры","order":3,"path":"folders/Шейдеры.yy",},
     {"name":"Шрифты","order":4,"path":"folders/Шрифты.yy",},
-    {"name":"Фоны","order":15,"path":"folders/Фоны.yy",},
+    {"name":"Десент","order":3,"path":"folders/Румы/Десент.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_btn_wakeup","order":2,"path":"sprites/spr_btn_wakeup/spr_btn_wakeup.yy",},

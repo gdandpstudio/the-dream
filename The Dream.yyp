@@ -25,9 +25,10 @@
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Румы","folderPath":"folders/Румы.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Скрипты","folderPath":"folders/Скрипты.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Спрайты","folderPath":"folders/Спрайты.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Фоны","folderPath":"folders/Фоны.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шейдеры","folderPath":"folders/Шейдеры.yy",},
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Шрифты","folderPath":"folders/Шрифты.yy",},
-    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Фоны","folderPath":"folders/Фоны.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Десент","folderPath":"folders/Румы/Десент.yy",},
   ],
   "IncludedFiles": [
     {"resourceType":"GMIncludedFile","resourceVersion":"1.0","name":"EASY ROOM TRANSITIONS.pdf","CopyToMask":-1,"filePath":"datafiles",},
@@ -35,7 +36,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.0.121",
+    "IDEVersion": "2023.11.1.129",
   },
   "resources": [
     {"id":{"name":"obj_btn_play","path":"objects/obj_btn_play/obj_btn_play.yy",},},
