@@ -1,11 +1,11 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "scr_dialog",
+  "name": "add_dialog",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {
-    "name": "Скрипты",
-    "path": "folders/Скрипты.yy",
+    "name": "Dialog",
+    "path": "folders/Скрипты/Dialog.yy",
   },
 }
