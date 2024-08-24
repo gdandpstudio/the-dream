@@ -1,84 +1,19 @@
-ENGLISH:
+Неужели ты это читаешь? ну ладно
 
-This Application was made by GD&P Studio using GameMaker. GameMaker is the intellectual property of YoYo Games Ltd, a company of the United Kingdom.
+Итак, напишу коротко и понятно
 
-THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
+Общее:
+Игра пренадлежит GD&P Studio
+ПО, с помощью которого была создана игра, пренадлежит YoYo Games Ltd.
+Если что-то случилось с компьютером, свяжитесь с нами, мы проверим код, если это реально, то мы это исправим, а Вам будет выражена отдельная благодарность. С багами тоже самое. Связываться нужно с владельцем игры - GD&P Studio, не с YoYo Games Ltd..
 
-Scope
------
-You may:
+Влияние на систему:
+Игра может выключать компьютер для эффекто страха. Компьютер не будет выключатся, если включена ≥ 1 из этих функций:
+- "Режим стримера"
+- "Режим записи"
+- "Я боюсь за свою винду"
+Игра может создавать файлы в папке Windows, чтобы триггерить антивирус (эти файлы будут удалены)
 
-Install, use, modify this Application for personal, or commercial use [provided you have paid any license fee, if this applies;
-
-You must not:
-
-use, copy, distribut modify, transfer, adapt, merge, modify, pirate (it's already free), decompile, disassemble, or reverse engineer the Application or part of it except as expressly permitted by this Licence;
-remove, or tamper with any copyright, trademark or other notice;
-use the Application for any illegal, unlawful or immoral purposes.
-
-
-Term
-----
-This License will end automatically if you breach any of the terms.
-When this License ends you must stop all use of the Application and destroy and erase any copies you have.
-
-
-Liability
----------
-
-YoYo Games Limited ("YoYo Games") is not involved in the creation of this Application except only that it was made using GameMaker. YoYo Games warrants only that GameMaker will function satisfactorily if used properly and on the correct operating system.
-YoYo Games does not warrant that the operation of the Application will be uninterrupted or error free or that errors can be corrected. You install and use the Application at your own risk and in no event will YoYo Games be liable to you for any loss or damage of any kind (except personal injury or death arising from YoYo Games' negligence) including lost profits or other consequential loss arising from the use of or inability to use the Application or from errors or deficiencies in it whether caused by negligence or otherwise.
-To the maximum extent permitted by law, YoYo Games Limited excludes liability for all warranties, conditions and other terms which but for this notice would have effect.
-
-
-General
--------
-
-All copyright and other intellectual property rights in GameMaker and parts of it included in the Application belong to and vest in YoYo Games. All rights of YoYo Games are hereby asserted and reserved.
-All trade marks are the property of their respective owners and YoYo Games makes no warranty or representation in respect of and has no responsibility and excludes all liability for any trade mark or third party content.
-The rights granted in this license are non-exclusive.
-This license does not affect your statutory rights as a consumer.
-This License is governed by English Law and the parties submit to the exclusive jurisdiction of the English Courts.
-If you have a problem with this Application please contact the person who made it - GD&P Studio, not YoYo Games.
-
-Click "ACCEPT" and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.
-
-RUSSIAN:
-
-Данное приложение было создано GD&P Studio с использованием GameMaker. GameMaker является интеллектуальной собственностью YoYo Games Ltd, компании Великобритании.
-
-ЭТОТ ЛИЦЕНЗИОННЫЙ ДОГОВОР С ПОЛЬЗОВАТЕЛЕМ ПРИМЕНЯЕТСЯ КО ВСЕМУ ИСПОЛЬЗОВАНИЮ ДАННОГО ПРИЛОЖЕНИЯ.
-
-Область применения
------
-Вы можете:
-
-Устанавливать, использовать, модифицировать это приложение для личного или коммерческого использования [при условии, что вы заплатили любые лицензионные сборы, если это применимо];
-
-Вам запрещено:
-
-использовать, копировать, распространять, модифицировать, передавать, адаптировать, объединять, модифицировать, пиратизировать (ведь оно уже бесплатное), декомпилировать, дизассемблировать или проводить обратную инженерию приложения или его части, за исключением случаев, прямо разрешенных этим Лицензионным соглашением;
-удалять или вмешиваться в любые авторские права, товарные знаки или другие уведомления;
-использовать приложение в незаконных, неправомерных или аморальных целях.
-
-Срок действия
-----
-Эта Лицензия прекратится автоматически при нарушении вами любого из условий. По окончании срока действия лицензии вы должны прекратить все использование приложения и уничтожить или стереть все копии, которые у вас есть.
-
-Ответственность
----------
-Компания YoYo Games Limited ("YoYo Games") не участвовала в создании этого приложения, за исключением того, что оно было создано с использованием GameMaker. YoYo Games гарантирует только, что GameMaker будет работать удовлетворительно при правильном использовании и на правильной операционной системе.
-YoYo Games не гарантирует, что работа приложения будет бесперебойной или безошибочной, и что ошибки могут быть исправлены. Вы устанавливаете и используете приложение на свой страх и риск, и в любом случае YoYo Games не несет ответственности перед вами за любые убытки или ущерб любого рода (за исключением личного ущерба или смерти, вызванных грубой халатностью YoYo Games), включая упущенную прибыль или другие косвенные убытки, возникшие из использования или неспособности использования приложения или из ошибок или недостатков в нем, будь то вызванными халатностью или иным образом.
-В максимально допустимом объеме, предусмотренном законом, YoYo Games Limited освобождает от ответственности по всем гарантиям, условиям и другим условиям, которые, за исключением этого уведомления, имели бы эффект.
-
-Общее
--------
-Все авторские права и другие права интеллектуальной собственности в GameMaker и его частях, включенных в приложение, принадлежат и переходят в собственность YoYo Games. Все права YoYo Games здесь утверждаются и оставляются за ними.
-Все товарные знаки являются собственностью их соответствующих владельцев, и YoYo Games не предоставляет никаких гарантий или представлений относительно и не несет никакой ответственности и отказывается от любой ответственности за любой товарный знак или контент третьих сторон.
-Предоставленные в этой лицензии права являются неисключительными.
-Эта лицензия не влияет на ваши законные права как потребителя.
-Этот лицензионный договор регулируется английским законодательством, и стороны подчиняются исключительной юрисдикции английских судов.
-Если у вас возникли проблемы с этим приложением, обращайтесь к тому, кто его создал - GD&P Studio, а не YoYo Games.
-
-Щелкните "ПРИНЯТЬ" и примите эти условия для установки и использования этого приложения. Если вы не согласны с ними, вы не можете продолжать установку, и вы не должны устанавливать, использовать или запускать это программное обеспечение на этом или любом другом компьютере.
-
+Можно:
+Делать модификации
+Брать исходный код на проверку

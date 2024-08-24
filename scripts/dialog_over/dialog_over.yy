@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "textdraw",
+  "name": "dialog_over",
   "isCompatibility": false,
   "isDnD": false,
   "parent": {

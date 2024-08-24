@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"scr_gpcon_chk",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_gpcon_chk",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

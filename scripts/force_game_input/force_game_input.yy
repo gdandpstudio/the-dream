@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"force_game_input",
+  "isCompatibility":false,
+  "isDnD":true,
+  "name":"force_game_input",
+  "parent":{
+    "name":"Скрипты",
+    "path":"folders/Скрипты.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
